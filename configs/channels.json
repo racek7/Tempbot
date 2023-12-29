@@ -1,0 +1,15 @@
+{
+    "HERE_ADD_CHANNEL_ID_WHERE_WHEN_USER_JOINS_IT_CREATES_AND_MOVES": {
+      "name": "NAME_FOR_THE_TEMP_CHANNEL",
+      "parentId": "PARENT_CATEGORY",
+      "position": 3,
+      "limit": 2
+    },
+    "HERE_ADD_CHANNEL_ID_WHERE_WHEN_USER_JOINS_IT_CREATES_AND_MOVES": {
+      "name": "NAME_FOR_THE_TEMP_CHANNEL",
+      "parentId": "PARENT_CATEGORY",
+      "position": 4,
+      "limit": 3
+    }
+  }
+  
