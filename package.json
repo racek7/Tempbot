@@ -1,0 +1,16 @@
+{
+  "name": "discord",
+  "version": "1.0.0",
+  "description": "Tempchannel bot",
+  "main": "app.ts",
+  "scripts": {
+    "build": "cls && tsc app.ts",
+    "start": "cls && node app.js",
+    "reg": "node register.js"
+  },
+  "author": "racek7",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
