@@ -4,7 +4,7 @@ This is a discord bot for creating temporary voice channels
 ### Instalation
 You can download this code using git
 ```
-git clone ---
+git clone https://github.com/racek7/Tempbot.git
 ```
 Open folder in terminal or cmd and using **npm run <command>**
 
@@ -20,7 +20,7 @@ Toto je discord bot na vytváření dočasných hlasových kanálů
 ### Instalace
 Stáhnout tento kód lze pomocí git
 ```
-git clone ---
+git clone https://github.com/racek7/Tempbot.git
 ```
 Otevřete složku v terminálu nebo cmd a pomocí **npm run <příkaz>**
 
