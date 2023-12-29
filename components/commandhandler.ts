@@ -1,10 +1,9 @@
 import ping from './commands/ping'
-import stop from './commands/stop'
 
 export function commandHandler(client:any) {
     client.commands = new Map();
 
-    const commandsArray = [ping, stop];
+    const commandsArray = [ping];
 
     for (const command of commandsArray) {
         client.commands.set(command.data.name, command);
